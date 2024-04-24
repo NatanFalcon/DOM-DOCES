@@ -247,7 +247,7 @@ header {
   top: 1405px;
   left: 128px;
 
-  /*typograph*/
+  /*typography*/
   font-size: 10px;
   font-weight: 700;
   line-height: 15px;
@@ -295,7 +295,7 @@ header {
   top: 1505px;
   left: 284px;
 
-  /*typograph*/
+  /*typography*/
   font-size: 10px;
   font-weight: 700;
   line-height: 15px;
@@ -323,7 +323,7 @@ header {
   top: 1610px;
   left: 225px;
 
-  /*typograph*/
+  /*typography*/
   font-size: 14px;
   font-weight: 700;
   line-height: 21px;
@@ -339,4 +339,164 @@ header {
   height: 111.32px;
   top: 1770px;
   right: -18px;
+}
+
+/*produtos*/
+.products{
+  background-image: linear-gradient(
+    #FFFFFF 0%, 
+    #A9F4FB 100%);
+  width: 430px;
+  height: 932px;
+  top: -467px;
+  left: 725px;
+}
+
+.titulo{
+  /*layout*/
+  position: absolute;
+  width: 416px;
+  height: 137px;
+  top: 1950px;
+  left: 14px;
+  border: 1px 0px 0px 0px;
+  color: #FFFFFF;
+
+  /*typography*/
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: 60px;
+  text-align: center;
+
+  /*contorno da letra*/
+  -webkit-text-stroke: 1px rgb(100, 100, 100);
+
+  /*sombra*/
+  text-shadow: -5px 6px 4px rgba(0, 0, 0, 0.25);
+}
+
+/*polygon*/
+.caixa-de-img{
+  display: flex;
+  align-items: center;
+}
+
+.caixaDoMeio{
+  position: absolute;
+  width: 80px;
+  height: 150px;
+  top: 2046px;
+  left: 175px;
+  border-radius: 2px 0px 0px 0px;
+}
+
+.caixaDaSetaEsquerda{
+  position: absolute;
+  width: 70px;
+  height: 150px;
+  top: 2045.7px;
+  left: 107px;
+}
+
+.caixaDaSetaDireita{
+  position: absolute;
+  width: 70px;
+  height: 150px;
+  top: 2045.7px;
+  right: 107px;
+}
+
+.setaEsquerda{
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 2105px;
+  left: 130px;
+  border: 2px 0px 0px 0px;
+}
+
+.setaDireita{
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 2105px;
+  right: 130px;
+  border: 2px 0px 0px 0px;
+}
+
+.imgsdacaixa{
+  position: relative;
+  width: 130px;
+  height: 224px;
+  top: 109px;
+  left: 159px;
+}
+
+/*explicação dos produtos*/
+.explicacaochocolate{
+  display: flex;
+  align-items: center;
+}
+
+.ovodapascoa1{
+  position: absolute;
+  width: 149.94px;
+  height: 200px;
+  top: 2250px;
+  left: 251px;
+  border-radius: 45px 0px 0px 0px;
+}
+
+.explicaotexto{
+  /*layout*/
+  position: absolute;
+  width: 191px;
+  height: 210px;
+  top: 2259px;
+  left: 15px;
+
+  /*typography*/
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.explicacaofrito{
+  display: flex;
+  align-items: center;
+}
+
+.carneporco{
+  position: absolute;
+  width: 184px;
+  height: 276px;
+  top: 2470px;
+  left: 15px;
+}
+
+.txtfrito{
+  /*layout*/
+  position: absolute;
+  width: 191px;
+  height: 210px;
+  top: 2490px;
+  left: 221px;
+
+  /*typography*/
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0.02em;
+  text-align: right;
+}
+
+.finalpagina3{
+  position: absolute;
+  width: 446.46px;
+  height: 111.32px;
+  top: 2700px;
+  left: -8px;
 }
