@@ -82,7 +82,7 @@ header {
   justify-content: end;
 }
 
-.txt1{
+.txt1 {
   font-weight: 700;
   font-size: 48px;
   line-height: 72px;
@@ -102,7 +102,7 @@ header {
   margin-left: 199.9px;
 }
 
-.txt2{
+.txt2 {
   position: absolute;
   font-weight: 500;
   font-size: 24px;
@@ -121,26 +121,23 @@ header {
   border-radius: 41px 0px 0px 0px;
 }
 
-
-
-.pecaJa{
+.pecaJa {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
   position: absolute;
-  
+
   width: 90px;
   height: 32px;
   top: 667px;
   left: 323px;
-  
+
   font-size: 15px;
   font-style: italic;
   font-weight: 600;
   line-height: 22.5px;
   text-align: left;
 
-  
   background: rgba(255, 255, 255, 1);
   border-radius: 50px;
   width: 110px;
@@ -149,14 +146,14 @@ header {
   left: 313px;
 }
 
-.pecaJa img{
+.pecaJa img {
   width: 25px;
   height: 25px;
   top: 667px;
   left: 388px;
 }
 
-.FundodDaPagina{
+.FundodDaPagina {
   position: absolute;
   width: 446.46px;
   height: 111.32px;
@@ -164,26 +161,24 @@ header {
   right: -18px;
 }
 
-
 /*QUEM SOMOS NÓS*/
-.whoareus{
-  background: linear-gradient(180deg, #90F6FF 0%, #FFFFFF 100%);
-  
+.whoareus {
+  background: linear-gradient(180deg, #90f6ff 0%, #ffffff 100%);
+
   width: 430px;
   height: 932px;
   top: -467px;
   left: 255px;
 }
 
-
-.quem{
+.quem {
   /*typography*/
   color: #f3ffff;
   font-size: 20px;
   font-style: italic;
   font-weight: 600;
   line-height: 60px;
-  text-align:center;
+  text-align: center;
 
   /*layout*/
   position: absolute;
@@ -196,10 +191,10 @@ header {
   -webkit-text-stroke: 1px rgba(2, 141, 141, 0.993);
 
   /*shadows*/
-  text-shadow: -5px 6px 4px rgba(0, 0, 0, 0.25)
+  text-shadow: -5px 6px 4px rgba(0, 0, 0, 0.25);
 }
 
-.apresentaçãoDosProdutostxt{
+.apresentaçãoDosProdutostxt {
   /*layout*/
   position: absolute;
   width: 191px;
@@ -218,7 +213,7 @@ header {
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.025);
 }
 
-.apresentaçãoDosProdutosimg{
+.apresentaçãoDosProdutosimg {
   /*layout*/
   position: absolute;
   width: 212.48px;
@@ -231,7 +226,7 @@ header {
 
 /*infos pequenas*/
 
-.imgmoedas{
+.imgmoedas {
   position: absolute;
   width: 23px;
   height: 24px;
@@ -239,7 +234,7 @@ header {
   left: 196px;
 }
 
-.txtmoedas{
+.txtmoedas {
   /*layout*/
   position: absolute;
   width: 173px;
@@ -255,7 +250,7 @@ header {
   text-align: center;
 }
 
-.imgentrega{
+.imgentrega {
   position: absolute;
   width: 24px;
   height: 24px;
@@ -263,7 +258,7 @@ header {
   left: 65px;
 }
 
-.txtentrega{
+.txtentrega {
   /*typography*/
   position: absolute;
   font-size: 10px;
@@ -279,7 +274,7 @@ header {
   left: 31px;
 }
 
-.imgmapa{
+.imgmapa {
   position: absolute;
   width: 24px;
   height: 24px;
@@ -287,7 +282,7 @@ header {
   left: 324px;
 }
 
-.txtmapa{
+.txtmapa {
   /*layout*/
   position: absolute;
   width: 103px;
@@ -304,7 +299,7 @@ header {
 }
 
 /*opções*/
-.imgquentinhas{
+.imgquentinhas {
   display: flex;
   gap: 30px;
   position: absolute;
@@ -315,7 +310,7 @@ header {
   border-radius: 37.5px 0px 0px 0px;
 }
 
-.txtapresentacao{
+.txtapresentacao {
   /*layout*/
   position: absolute;
   width: 191px;
@@ -333,7 +328,7 @@ header {
 
 /*fundo da pagina*/
 
-.FundodDaPagina2{
+.FundodDaPagina2 {
   position: absolute;
   width: 446.46px;
   height: 111.32px;
@@ -342,17 +337,15 @@ header {
 }
 
 /*produtos*/
-.products{
-  background-image: linear-gradient(
-    #FFFFFF 0%, 
-    #A9F4FB 100%);
+.products {
+  background-image: linear-gradient(#ffffff 0%, #a9f4fb 100%);
   width: 430px;
   height: 932px;
   top: -467px;
   left: 725px;
 }
 
-.titulo{
+.titulo {
   /*layout*/
   position: absolute;
   width: 416px;
@@ -360,7 +353,7 @@ header {
   top: 1950px;
   left: 14px;
   border: 1px 0px 0px 0px;
-  color: #FFFFFF;
+  color: #ffffff;
 
   /*typography*/
   font-size: 30px;
@@ -377,12 +370,12 @@ header {
 }
 
 /*polygon*/
-.caixa-de-img{
+.caixa-de-img {
   display: flex;
   align-items: center;
 }
 
-.caixaDoMeio{
+.caixaDoMeio {
   position: absolute;
   width: 80px;
   height: 150px;
@@ -391,7 +384,7 @@ header {
   border-radius: 2px 0px 0px 0px;
 }
 
-.caixaDaSetaEsquerda{
+.caixaDaSetaEsquerda {
   position: absolute;
   width: 70px;
   height: 150px;
@@ -399,7 +392,7 @@ header {
   left: 107px;
 }
 
-.caixaDaSetaDireita{
+.caixaDaSetaDireita {
   position: absolute;
   width: 70px;
   height: 150px;
@@ -407,7 +400,7 @@ header {
   right: 107px;
 }
 
-.setaEsquerda{
+.setaEsquerda {
   position: absolute;
   width: 30px;
   height: 30px;
@@ -416,7 +409,7 @@ header {
   border: 2px 0px 0px 0px;
 }
 
-.setaDireita{
+.setaDireita {
   position: absolute;
   width: 30px;
   height: 30px;
@@ -425,7 +418,7 @@ header {
   border: 2px 0px 0px 0px;
 }
 
-.imgsdacaixa{
+.imgsdacaixa {
   position: relative;
   width: 130px;
   height: 224px;
@@ -434,12 +427,12 @@ header {
 }
 
 /*explicação dos produtos*/
-.explicacaochocolate{
+.explicacaochocolate {
   display: flex;
   align-items: center;
 }
 
-.ovodapascoa1{
+.ovodapascoa1 {
   position: absolute;
   width: 149.94px;
   height: 200px;
@@ -448,7 +441,7 @@ header {
   border-radius: 45px 0px 0px 0px;
 }
 
-.explicaotexto{
+.explicaotexto {
   /*layout*/
   position: absolute;
   width: 191px;
@@ -464,12 +457,12 @@ header {
   text-align: left;
 }
 
-.explicacaofrito{
+.explicacaofrito {
   display: flex;
   align-items: center;
 }
 
-.carneporco{
+.carneporco {
   position: absolute;
   width: 184px;
   height: 276px;
@@ -477,7 +470,7 @@ header {
   left: 15px;
 }
 
-.txtfrito{
+.txtfrito {
   /*layout*/
   position: absolute;
   width: 191px;
@@ -493,10 +486,252 @@ header {
   text-align: right;
 }
 
-.finalpagina3{
+.finalpagina3 {
   position: absolute;
   width: 446.46px;
   height: 111.32px;
   top: 2700px;
   left: -8px;
+}
+
+/*Dinner*/
+.dinner {
+  width: 430px;
+  height: 992px;
+  top: -467px;
+  left: 1195px;
+  background: #b7f7fd;
+}
+
+.tituloOfertas {
+  /*layout*/
+  position: relative;
+  width: 424px;
+  height: 137px;
+  top: 53px;
+  left: 6px;
+  border: 1px 0px 0px 0px;
+  color: #ffffff;
+
+  /*contorno*/
+  -webkit-text-stroke: 1px rgb(100, 100, 100);
+
+  /*sombra*/
+  text-shadow: -5px 6px 4px rgba(0, 0, 0, 0.25);
+
+  /*typography*/
+  font-size: 26px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: 60px;
+  text-align: center;
+}
+
+.informacao{
+  display: grid;
+  grid-template-columns: 50px 50px;
+  margin: 40px;
+  column-gap: 160px;
+  row-gap: 100px;
+}
+
+/*Creme de galinha*/
+.titulocg{
+  /*layout*/
+  position: relative;
+  width: 158px;
+  height: 23px;
+  top: -565px;
+  left: 40px;
+
+  /*typography*/
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+}
+
+.paragrafocg{
+  /*layout*/
+  position: relative;
+  width: 146px;
+  height: 54px;
+  top: -570px;
+  left: 40px;
+
+  /*typography*/
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: left;
+}
+
+/*Frango assado*/
+.titulofa{
+  /*layout*/
+  position: relative;
+  width: 158px;
+  height: 18px;
+  top: -642px;
+  left: 250px;
+
+  /*typography*/
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+}
+
+.paragrafofa{
+  /*layout*/
+  position: relative;
+  width: 146px;
+  height: 54px;
+  top: -643px;
+  left: 250px;
+
+  /*typography*/
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: left;
+}
+
+/*salada*/
+.titulosalada{
+  /*layout*/
+  position: relative;
+  width: 158px;
+  height: 18px;
+  top: -456px;
+  left: 40px;
+
+  /*typography*/
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+}
+
+.paragrafosl{
+  /*layout*/
+  position: relative;
+  width: 146px;
+  height: 54px;
+  top: -458px;
+  left: 40px;
+
+  /*typography*/
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: left;
+}
+
+/*Farofa c/ carne*/
+.titulofarofacarne{
+  /*layout*/
+  position: relative;
+  width: 158px;
+  height: 18px;
+  top: -528px;
+  left: 252px;
+
+  /*typography*/
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+}
+
+.paragrafofcc{
+  /*layout*/
+  position: relative;
+  width: 146px;
+  height: 54px;
+  top: -528px;
+  left: 247px;
+
+  /*typography*/
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: right;
+}
+
+/*Baiao de dois*/
+.titulobd{
+  /*layout*/
+  position: relative;
+  width: 158px;
+  height: 23px;
+  top: -342px;
+  left: 42px;
+
+  /*typography*/  
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+}
+
+.paragrafobd{
+  /*layout*/
+  position: relative;
+  width: 146px;
+  height: 54px;
+  top: -346px;
+  left: 42px;
+
+  /*typography*/
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: left;
+}
+
+/*macarronada*/
+.titulomr{
+  /*layout*/
+  position: relative;
+  width: 158px;
+  height: 23px;
+  top: -420px;
+  left: 252px;
+
+  /*typography*/
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+}
+
+.paragrafomr{
+  /*layout*/
+  position: relative;
+  width: 146px;
+  height: 54px;
+  top: -425px;
+  left: 249px;
+
+  /*typography*/
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: right;
+}
+
+.fundobranco{
+  position: relative;
+  width: 446.46px;
+  height: 111.32px;
+  top: -405px;
+  left: 0px;
+  color: #d1fbff;
 }
