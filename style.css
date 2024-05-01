@@ -735,3 +735,177 @@ header {
   left: 0px;
   color: #d1fbff;
 }
+
+/*sweet shop*/
+.Sweetshop{
+  width: 430px;
+  height: 932px;
+  top: -467px;
+  left: 1665px;
+  background: #D1FBFF;
+}
+
+.brownieDeChocolate{
+  display: flex;
+}
+
+.NossosDoces{
+  /*layout*/
+  position: relative;
+  width: 402px;
+  height: 137px;
+  top: 100px;
+  left: 46px;
+  border: 1px 0px 0px 0px;
+  color: #ffffff;
+
+  /*typography*/
+  font-size: 40px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: 60px;
+  text-align: left;
+
+  /*Shadow*/
+  text-shadow: -5px 6px 4px rgba(0, 0, 0, 0.25);
+
+  /*bordas da palavra*/
+  -webkit-text-stroke: 1px rgb(100, 100, 100);
+}
+
+.imgDoBrownieDeChocolate{
+  position: relative;
+  width: 210px;
+  height: 210px;
+  top: -140px;
+  left: 215px;
+  border-radius: 10px 0px 0px 0px;
+  border: 3px 0px 0px 0px;
+}
+
+.informacaoBrownieDeChocolate{
+  /*layout*/
+  position: relative;
+  width: 207px;
+  height: 119px;
+  top: 50px;
+  left: 10px;
+
+  /*typography*/
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 22.5px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.ValorDoBrownieDeChocolate{
+  /*layout*/
+  position: relative;
+  width: 176px;
+  height: 69px;
+  top: 35px;
+  left: 9px;
+  color: #039409;
+
+  /*typography*/
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.imgDoBrownieDeNinho{
+  position: relative;
+  width: 210px;
+  height: 210px;
+  top: -120px;
+  left: 10px;
+  border-radius: 10px 0px 0px 0px;
+  border: 3px 0px 0px 0px;
+}
+
+.informacaoDoBrownieDeNinho{
+  /*layout*/
+  position: relative;
+  width: 191px;
+  height: 72px;
+  top: -310px;
+  left: 226px;
+
+  /*typography*/
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.ValorDoBrownieDeNinho{
+  /*layout*/
+  position: relative;
+  width: 176px;
+  height: 69px;
+  top: -320px;
+  left: 225px;
+  color: #039409;
+
+  /*typography*/
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.imgDoBrownieDePote{
+  position: relative;
+  width: 210px;
+  height: 210px;
+  top: -406px;
+  left: 215px;
+  border-radius: 10px 0px 0px 0px;
+  border: 3px 0px 0px 0px;
+}
+
+.informacaoDoBrownieDePote{
+  /*lyout*/
+  position: relative;
+  width: 191px;
+  height: 96px;
+  top: -220px;
+  left: 10px;
+
+  /*typography*/
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.ValorDoBrownieDePote{
+  /*layout*/
+  position: relative;
+  width: 176px;
+  height: 69px;
+  top: -235px;
+  left: 10px;
+  color: #039409;
+
+  /*typography*/
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.fundodapagina5{
+  position: relative;
+  width: 446.46px;
+  height: 111.32px;
+  top: -400px;
+  left: 2px;
+}
