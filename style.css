@@ -527,7 +527,7 @@ header {
   text-align: center;
 }
 
-.informacao{
+.informacao {
   display: grid;
   grid-template-columns: 50px 50px;
   margin: 40px;
@@ -536,7 +536,7 @@ header {
 }
 
 /*Creme de galinha*/
-.titulocg{
+.titulocg {
   /*layout*/
   position: relative;
   width: 158px;
@@ -552,7 +552,7 @@ header {
   text-align: left;
 }
 
-.paragrafocg{
+.paragrafocg {
   /*layout*/
   position: relative;
   width: 146px;
@@ -568,7 +568,7 @@ header {
 }
 
 /*Frango assado*/
-.titulofa{
+.titulofa {
   /*layout*/
   position: relative;
   width: 158px;
@@ -584,7 +584,7 @@ header {
   text-align: left;
 }
 
-.paragrafofa{
+.paragrafofa {
   /*layout*/
   position: relative;
   width: 146px;
@@ -600,7 +600,7 @@ header {
 }
 
 /*salada*/
-.titulosalada{
+.titulosalada {
   /*layout*/
   position: relative;
   width: 158px;
@@ -616,7 +616,7 @@ header {
   text-align: left;
 }
 
-.paragrafosl{
+.paragrafosl {
   /*layout*/
   position: relative;
   width: 146px;
@@ -632,7 +632,7 @@ header {
 }
 
 /*Farofa c/ carne*/
-.titulofarofacarne{
+.titulofarofacarne {
   /*layout*/
   position: relative;
   width: 158px;
@@ -648,7 +648,7 @@ header {
   text-align: left;
 }
 
-.paragrafofcc{
+.paragrafofcc {
   /*layout*/
   position: relative;
   width: 146px;
@@ -664,7 +664,7 @@ header {
 }
 
 /*Baiao de dois*/
-.titulobd{
+.titulobd {
   /*layout*/
   position: relative;
   width: 158px;
@@ -672,7 +672,7 @@ header {
   top: -342px;
   left: 42px;
 
-  /*typography*/  
+  /*typography*/
   font-size: 16px;
   font-style: italic;
   font-weight: 600;
@@ -680,7 +680,7 @@ header {
   text-align: left;
 }
 
-.paragrafobd{
+.paragrafobd {
   /*layout*/
   position: relative;
   width: 146px;
@@ -696,7 +696,7 @@ header {
 }
 
 /*macarronada*/
-.titulomr{
+.titulomr {
   /*layout*/
   position: relative;
   width: 158px;
@@ -712,7 +712,7 @@ header {
   text-align: left;
 }
 
-.paragrafomr{
+.paragrafomr {
   /*layout*/
   position: relative;
   width: 146px;
@@ -727,7 +727,7 @@ header {
   text-align: right;
 }
 
-.fundobranco{
+.fundobranco {
   position: relative;
   width: 446.46px;
   height: 111.32px;
@@ -737,19 +737,19 @@ header {
 }
 
 /*sweet shop*/
-.Sweetshop{
+.Sweetshop {
   width: 430px;
   height: 932px;
   top: -467px;
   left: 1665px;
-  background: #D1FBFF;
+  background: #d1fbff;
 }
 
-.brownieDeChocolate{
+.ChocolateBrownie {
   display: flex;
 }
 
-.NossosDoces{
+.OurSweets {
   /*layout*/
   position: relative;
   width: 402px;
@@ -773,7 +773,7 @@ header {
   -webkit-text-stroke: 1px rgb(100, 100, 100);
 }
 
-.imgDoBrownieDeChocolate{
+.ImgChocolateBrownie {
   position: relative;
   width: 210px;
   height: 210px;
@@ -783,7 +783,7 @@ header {
   border: 3px 0px 0px 0px;
 }
 
-.informacaoBrownieDeChocolate{
+.ChocolateBrownieInformation {
   /*layout*/
   position: relative;
   width: 207px;
@@ -799,7 +799,7 @@ header {
   text-align: left;
 }
 
-.ValorDoBrownieDeChocolate{
+.ValueOfChocolateBrownie {
   /*layout*/
   position: relative;
   width: 176px;
@@ -816,7 +816,7 @@ header {
   text-align: left;
 }
 
-.imgDoBrownieDeNinho{
+.ImgOfBrownieFromNest {
   position: relative;
   width: 210px;
   height: 210px;
@@ -826,7 +826,7 @@ header {
   border: 3px 0px 0px 0px;
 }
 
-.informacaoDoBrownieDeNinho{
+.NestBrownieInformation {
   /*layout*/
   position: relative;
   width: 191px;
@@ -842,7 +842,7 @@ header {
   text-align: left;
 }
 
-.ValorDoBrownieDeNinho{
+.NestBrownieValue {
   /*layout*/
   position: relative;
   width: 176px;
@@ -859,7 +859,7 @@ header {
   text-align: left;
 }
 
-.imgDoBrownieDePote{
+.ImgBrowniePot{
   position: relative;
   width: 210px;
   height: 210px;
@@ -869,7 +869,7 @@ header {
   border: 3px 0px 0px 0px;
 }
 
-.informacaoDoBrownieDePote{
+.PotBrownieInformation {
   /*lyout*/
   position: relative;
   width: 191px;
@@ -885,7 +885,7 @@ header {
   text-align: left;
 }
 
-.ValorDoBrownieDePote{
+.PotBrownieValue{
   /*layout*/
   position: relative;
   width: 176px;
@@ -902,10 +902,254 @@ header {
   text-align: left;
 }
 
-.fundodapagina5{
+.EndOfPage5 {
   position: relative;
   width: 446.46px;
   height: 111.32px;
   top: -400px;
   left: 2px;
+}
+
+/*Contacts*/
+.Contacts{
+  width: 430px;
+  height: 932px;
+  top: -467px;
+  left: 2135px;
+  background: #B7F7FD;
+}
+
+.ContactUs{
+  /*layout*/
+  position: relative;
+  width: 307px;
+  height: 48px;
+  top: 48px;
+  left: 60px;
+  border: 1px 0px 0px 0px;
+  color: #ffffff;
+
+  /*typography*/
+  font-size: 26.3px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: 60px;
+  text-align: left;
+
+  /*bordas da letra*/
+  -webkit-text-stroke: 1px rgb(100, 100, 100);
+
+  /*shadow*/
+  text-shadow: -5px 6px 4px rgba(0, 0, 0, 0.25);
+}
+
+.MapContainer{
+  text-align: center;
+}
+
+.Map{
+  position: relative;
+  width: 329px;
+  height: 217px;
+  top: 140px;
+  left: 0px;
+  border-radius: 21px 0px 0px 0px;
+  border: 2px 0px 0px 0px;
+}
+
+.IconToMark{
+  position: relative;
+  width: 25px;
+  height: 25px;
+  top: 170px;
+  left: 60px;
+}
+
+.ZipCode{
+  /*layout*/
+  position: relative;
+  width: 255px;
+  height: 18px;
+  top: 140px;
+  left: 90px;
+
+  /*typography*/
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+}
+
+.CellPhone{
+  position: relative;
+  width: 25px;
+  height: 25px;
+  top: 170px;
+  left: 60px;
+}
+
+.Number{
+  /*layout*/
+  position: relative;
+  width: 208px;
+  height: 19px;
+  top: 140px;
+  left: 85px;
+
+  /*typography*/
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+}
+
+.Follow{
+  /*layout*/
+  position: relative;
+  width: 90px;
+  height: 24px;
+  top: 170px;
+  left: 65px;
+
+  /*typography*/
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 21px;
+  text-align: left;
+}
+
+.MapCircle{
+  position: relative;
+  width: 63px;
+  height: 63px;
+  top: 170px;
+  left: 55px;
+  border: 1px 0px 0px 0px;
+}
+
+.Map2{
+  position: relative;
+  width: 40px;
+  height: 40px;
+  top: 152px;
+  left: 2px;
+}
+
+.InstaCircle{
+  position: relative;
+  width: 63px;
+  height: 63px;
+  top: 98px;
+  left: 138px;
+  border: 1px 0px 0px 0px;
+}
+
+.IconInsta{
+  position: relative;
+  width: 40px;
+  height: 40px;
+  top: 82px;
+  left: 85px;
+}
+
+.WhatsappCircle{
+  position: relative;
+  width: 63px;
+  height: 63px;
+  top: 25px;
+  left: 232px;
+  border: 1px 0px 0px 0px;
+}
+
+.IconWhatsapp{
+  position: relative;
+  width: 40px;
+  height: 40px;
+  top: 8px;
+  left: 178px;
+}
+
+/*footer*/
+.Footer{
+  width: 430px;
+  height: 86px;
+  top: 846px;
+  background: #F2FFFE;
+  display: flex;
+}
+
+.ImgCandy{
+  position: relative;
+  width: 100px;
+  height: 81.13px;
+  top: 0px;
+}
+
+.Line1{
+  /*layout*/
+  position: relative;
+  width: 143px;
+  height: 20px;
+  top: 20px;
+  left: 0px;
+
+  /*typography*/
+  font-size: 5px;
+  font-weight: 400;
+  line-height: 7.5px;
+  text-align: left;
+}
+
+.Line2{
+  /*layout*/
+  position: relative;
+  width: 115px;
+  height: 20px;
+  top: 15px;
+  left: 0px;
+
+  /*typography*/
+  font-size: 5px;
+  font-weight: 400;
+  line-height: 7.5px;
+  text-align: left;
+}
+
+.Done{
+  /*layout*/
+  position: relative;
+  width: 115px;
+  height: 20px;
+  top: 20px;
+  left: 100px;
+
+  /*typography*/
+  font-size: 6px;
+  font-weight: 500;
+  line-height: 9px;
+  text-align: left;
+}
+
+.GitIcon{
+  position: relative;
+  width: 20px;
+  height: 20px;
+  top: 34px;
+  right: 25px;
+}
+
+.InstaIcon{
+  position: relative;
+  width: 20px;
+  height: 20px;
+  top: 34px;
+  right: 19px;
+}
+
+.LinkIcon{
+  position: relative;
+  width: 20px;
+  height: 20px;
+  top: 34px;
+  right: 15px;
 }
